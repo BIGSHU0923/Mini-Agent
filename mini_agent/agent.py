@@ -14,7 +14,6 @@ from .schema import Message
 from .tools.base import Tool, ToolResult
 from .utils import calculate_display_width
 
-# 111
 # ANSI color codes
 class Colors:
     """Terminal color definitions"""
